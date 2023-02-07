@@ -1,0 +1,92 @@
+header {
+
+    background: linear-gradient(rgba(112, 109, 109, 0.2), rgba(124, 121, 121, 0.2)), url(imagens/montado\ -\ 1200.png);
+    background-position: center;
+    height: 98vh;
+    background-repeat: no-repeat;
+    padding: 10px 20px;
+
+
+}
+
+
+body {
+
+    background-color: rgb(26, 24, 24);
+
+}
+
+* {
+
+    margin: 0;
+    padding: 0;
+
+}
+
+
+
+
+
+#logo {
+    
+    text-align: left;
+
+}
+
+.caixa {
+
+    width: 600px;
+    height: 70px;
+    background: linear-gradient(rgba(0, 0, 0, 0.8), rgba(53, 51, 51, 0.8),rgba(59, 59, 59, 0.8));
+    border-radius: 15px;
+    margin: auto;
+    position: absolute;
+    left: 632px;
+    top: 12px;
+
+
+}
+
+nav {
+
+    
+    position: absolute;
+    top: 40px;
+    left: 637px;
+    font-size: x-large;
+    text-align: center;
+}
+
+a {
+    font-family: Sawarabi Gothic;
+    color: rgb(155, 144, 144);
+    margin: 20px;
+    text-decoration: none;
+}
+
+#lista2 nav{
+
+    position: absolute;
+    top: 30px;
+    left: 1500px;
+}   
+#lista2 img{
+    
+    position: relative;
+    top: -3px;
+    left: -100px;
+    margin: 1px;
+}
+
+#lista2 a{
+
+    margin: 1px;
+}
+
+#lista nav{
+
+    position: absolute;
+    display: inline-block;
+    top: 30px;
+}
+
